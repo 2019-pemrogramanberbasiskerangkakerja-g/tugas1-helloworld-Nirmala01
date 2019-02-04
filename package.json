@@ -1,0 +1,13 @@
+{
+      "name": "hello-world-express",
+      "version": "10.15.1",
+      "author": "Nirmala",
+      "description": "Hello World program with node.js and express",
+      "scripts": {
+            "start": "node app.js"
+      },
+      "license": "MIT",
+      "dependencies": {
+            "express": "^4.16.4"
+      }
+}
